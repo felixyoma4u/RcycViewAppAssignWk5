@@ -1,0 +1,2 @@
+rootProject.name = "RcycViewApp AssignWk5"
+include ':app'
